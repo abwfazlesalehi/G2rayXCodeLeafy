@@ -1,1 +1,2 @@
 
+vless://f5ab41be-0fc4-4604-a3c3-e4e4a8b2b6fb@94.130.13.19:443?encryption=none&security=tls&sni=verbose-potato-6v999j66vxpvfww7-443.app.github.dev&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=verbose-potato-6v999j66vxpvfww7-443.app.github.dev&path=%2F&mode=packet-up#G2rayXCodeLeafy|hitchcockisdead
